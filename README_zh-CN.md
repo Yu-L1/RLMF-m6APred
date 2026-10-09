@@ -4,7 +4,7 @@
 
 RLMF-m6APred用于预测41-nt RNA序列中的m6A修饰位点。本仓库提供推理代码和复现独立测试集结果所需的数据。已发布的模型权重托管于[Hugging Face](https://huggingface.co/Yu-star/RLMF-m6APred)。
 
-**在线预测服务器：** [https://yul1--rlmf.modal.run](https://yul1--rlmf.modal.run)
+**在线预测服务器：** [https://xiaof-xy--rlmf.modal.run](https://xiaof-xy--rlmf.modal.run)
 
 ## 1. 环境配置
 

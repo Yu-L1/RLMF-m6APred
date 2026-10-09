@@ -7,7 +7,7 @@ provides the inference code and the datasets required to reproduce the
 independent-test results. The released model weights are hosted on
 [Hugging Face](https://huggingface.co/Yu-star/RLMF-m6APred).
 
-**Web server:** [https://yul1--rlmf.modal.run](https://yul1--rlmf.modal.run)
+**Web server:** [https://xiaof-xy--rlmf.modal.run](https://xiaof-xy--rlmf.modal.run)
 
 ## 1. Environment
 

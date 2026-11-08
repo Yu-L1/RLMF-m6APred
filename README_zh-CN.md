@@ -63,3 +63,7 @@ CUDA_VISIBLE_DEVICES=0 python predict.py \
 ```
 
 模型接收长度为41 nt的序列。输入RNA中的`U`会在预处理阶段自动转换为`T`。
+
+## 联系方式
+
+如有问题，请联系 [yuluo_xf@163.com](mailto:yuluo_xf@163.com)。

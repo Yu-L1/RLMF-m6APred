@@ -72,3 +72,7 @@ CUDA_VISIBLE_DEVICES=0 python predict.py \
 
 The model accepts 41-nt sequences. RNA `U` is normalized to `T` during input
 processing.
+
+## Contact
+
+For questions or issues, please contact [yuluo_xf@163.com](mailto:yuluo_xf@163.com).

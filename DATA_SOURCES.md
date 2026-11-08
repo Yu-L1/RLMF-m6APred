@@ -2,25 +2,22 @@
 
 ## Internal benchmark and independent-test data
 
-The release preserves the exact 41-nt sequence tables used for the 11 tissue
-datasets in the manuscript. Benchmark and independent-test files are separated
-under `data/internal_benchmark/` and `data/independent_test/`.
+The 11 tissue-specific benchmark and independent-test datasets contain
+41-nt sequences under `data/internal_benchmark/` and `data/independent_test/`.
 
 ## DSNm6A mammalian external validation
 
-Human, mouse, and rat mRNA sequences originate from the DSNm6A data release.
-The released RLMF-m6APred evaluation files are the exact 41-nt processed tables
-used in the manuscript. They are separated by species and by ACA/DRACH protocol.
-They were used only for external evaluation.
+Human, mouse, and rat mRNA sequences originate from DSNm6A. The processed
+41-nt tables are separated by species and by ACA/DRACH protocol under
+`data/external_validation/dsnm6a/mammalian_mrna/`.
 
-Original project: https://github.com/BioMLab/DSNm6A
+Source publication: [Teng et al., DSNm6A](https://doi.org/10.1093/bib/bbaf651).
 
 ## DSNm6A cross-species 5x5 data
 
-`zebrafish.csv` and `arabidopsis.csv` are byte-identical copies of the species
-pools used in the RLMF-m6APred 5x5 cross-species experiment. Both are 41-nt,
-DRACH-only datasets. No additional filtering, deduplication, rebalancing,
-column renaming, or row reordering was performed for this release.
+`zebrafish.csv` and `arabidopsis.csv` under
+`data/external_validation/dsnm6a/cross_species_5x5/` contain the 41-nt,
+DRACH-only DSNm6A species pools used in the 5x5 cross-species experiment.
 
-The original source repository does not currently display an explicit data
-license. Confirm redistribution permission before making the public release.
+An explicit redistribution license for the DSNm6A datasets has not been
+verified.

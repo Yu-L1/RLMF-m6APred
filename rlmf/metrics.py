@@ -25,7 +25,7 @@ def compute_binary_metrics(
     except ImportError as exc:
         raise ImportError(
             "scikit-learn is required for metric calculation. "
-            "Install dependencies with: pip install -r requirements_birna.txt"
+            "Install dependencies with: pip install -r requirements.txt"
         ) from exc
 
     y_true = np.asarray(list(labels), dtype=int)

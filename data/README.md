@@ -10,5 +10,4 @@
 Every CSV contains `sequence` and `label`. Cross-species files additionally
 preserve the original `dataset_ids` column. All sequences are 41 nt long.
 
-The release does not contain few-shot splits, domain-adaptation corpora,
-interpretability subsets, or intermediate derived datasets.
+See [data sources](../DATA_SOURCES.md) for provenance.

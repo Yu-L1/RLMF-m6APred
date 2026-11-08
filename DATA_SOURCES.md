@@ -18,6 +18,3 @@ Source publication: [Teng et al., DSNm6A](https://doi.org/10.1093/bib/bbaf651).
 `zebrafish.csv` and `arabidopsis.csv` under
 `data/external_validation/dsnm6a/cross_species_5x5/` contain the 41-nt,
 DRACH-only DSNm6A species pools used in the 5x5 cross-species experiment.
-
-An explicit redistribution license for the DSNm6A datasets has not been
-verified.
